@@ -1,0 +1,61 @@
+.......................:{f||ffff!..         .  ...............''''''''^.`+?(\tcY
+    ...................:[/((////!..         .  ......................'^.`+?(\tvY
+                      .:-\(1\\\\!..              .....................`.`~-)|/uX
+                      .:-|){(())I..                  .................'.'<-1(\nX
+                      .,+){})11{;..                     .............'`.'>_{(|nX
+                      ."+){[{{{};..                     ... .........'`.'i+})|nz
+                      ."~{[?}}}};.                            ..  ...'`.'i+})(xz
+                      .,+}[-[[[[:.                                   '`.'i~[)(xc
+                      .,+}]_]]]],..                                  '`..i~[)(xc
+                      ."~[?-]]]],........ ..  ....  .....    .... ...'`..!<[)(xc
+ .'`'... ..           .,~[--]]??+iii!!!!!!!iiiiiii>><<~~~++++++__-???]l..!<[)(xc
+ .,IIII,,:"^``....    .,~}?-]??]>IIIIIIIIIIIIIIIlll!!i><<<>>>><<~~<~~_1-"!<]1(rc
+ ....'",,,I;,",,"^^'...,+}]]]]]?,................^"i1(I;!IIIII:".....'`,!<<]1(rc
+  ..... ...`^^"","`"":,;+}][[[[]:..           ..?LLLC[l>{>l;;>II!I`...'..i<?1(xc
+   ....    ......`"lI^`^_j)}}}}[:..           .;vn}(t]{[|+lIl-lllI!,.'' .i<?1(nc
+   ........    ....;"^;jUUJYn/1{,..          ..,;!{l<c/\f~+!!]l!>ll~.'' .!<?1(nz
+...'''''''''......':,>|zUJCCCCJv+'.           .."!?:;?(>}_i<?[>-[>>~'''..i<?1|nz
+''''''''''''''...''''^'l1XCLLLLQQY|>"...  .....;i:::;;I]+>+}/??_+~<~lI:..i>?)\uz
+''''''''''''.....'''''';-|jXLQQ000OOOJx{^.....,i-~]?!i?>+{\f(?]1+~>>~_I!l<<](\uX
+''''''''''........'''''I-\)|jvC0OOOOOOZZY1I'`~__?!+_?]?[)f\j|)|_+-~!~_-iIl~}\/cY
+''.''''''''''''''''''''l?/(|ffjx/LOOZmZmmmZUcf]i++}/{}())r/x\jt_>{~;;;I!i!;;>[uY
+''''..'''''''''''''''''![f|/jjjjI,rZZmmwwwwwwwO(1ff\fj)))xtufvf(+]+!'''''+__>i<>
+'''''''''''''''''''''''!}r/jrxxxI'.<UmwwwqqqwwOj!)tjt\)))|cnvuff-?`[I``.'+~{\-I<
+'''''''''''''''''''''''!{r/jnnnnl'..`[Lqqqqpqwu:,[xuu\((//\/xQQLv?~{```'"--1xvjj
+'''''''''''''''''''''``!}x/rnuuul'....`{Zppbdq)~;,!ir/)?il;:xpppddq0Omwqdddddbkh
+'''''''''''''''''''''''!}njruvvvl'......^jpbpqqqq0zt\-;,,::Imddddpddbbbbbdddbbhh
+'''''''''''''''''''''''!{ujncccz!.........udpppppddpddpZLzxckhbdbkbkkbddddddbbbb
+'''''''''''''''''''''''>1cxuXXXXI........'ZhhhhhhhbddddddddbahhhhhkpmLYurvrxcYQO
+''''''''''''''''''''''`<)zxvYYUUI......../haaaaaoaahabhhkbbkhOj]>:`..'`.'-_}jcL0
+''''.'.''''''''''''''``>1YnzJCCCI......'1baaooooooaaoaaaahC{;......  ''.'-_}jvL0
+'''''''.''''''`][{1(||(\jczzXYYYxjj//fv0dkhaaaooooooooaah('...      .''.'--}jvL0
+''''''''''''''^t\/fjrxnnuvcczzXXYYYYLwbbbbkkbbkhhaaooooq-.. .        '`.'??}fvL0
+''''''''''''''`rtjxxnnuvvcczzXXYYU0qdbbkkkkhkkhkkkkkhod:..           '`.']?}jvLO
+''''''''''''''`XvuuvccczXXYYYYYCmdbbkkkkkkkhhhkhhhkhhaQ..            ``.`[]{xzQZ
+''''''''''''''"O0QQQ00OOZZZZZZqbbbkkkhhhhhhhhhhhhhhkkhd,.            ^`'^{}1nX0m
+''''''''''''''"dkhhhaaaooooohkkkkkkhhhhahhhaaaaaahhhhhk{;,,,,,,,,,,,,I,',1})uYOw
+...'''''''''''"OOmwwwqqqppdhkkkhhhhhhaaaaaaaaaaaaaaaahhkpqqqqqqqqqwwwwji;|{(cUZq
+UUUUUUUUJCLLLLQYxnuuvvcccz0kkhhhhhaaaaaaaaaaaaaaaaaaaaaadddddddppqqqqppOrxtjULqd
+OZZZZZmmZOZZZZwZLLQ0OOZmwdhhaaaaaaaoooooooooooaaaooaaaaapbdqqqqppddZUk#WW&8888WW
+qqqqqqqqqqpkppddqpddbkhhaaaaoaaaoooooooooooo*oooooooooooaddp*hkkkkh&888%BBBBBBBB
+wwwwmmmmmmwdwwqhkhaaoooooooo*ooooooooooooooo*ooooooooooo*akwbddddppdbdo%BBBBBBBB
+UUYYXXYYYYUCCCL00Zmmmwqooooo*ooooooooo***o*****oooo*ooooobopwZOOZZZZmq*%%%%%%%%B
+ahhhhhhhaaooooooooooooooooo**oo**********o****************oaoooaooo****ooaoooooo
+MMMMW8&&&&&&&&&&&&888&*********************************#**8&&&&&&8&&&&&&&&&&&&&&
+##**MMkooooooooaaoooo***********************######***#*###M######MhW#WWWWWMMWWWW
+&&&M#Wa#&W&&&&WW&&WWM##**####*******####################M###&&&&##a&oMMMMWWWWWWW
+8M&&#WaM&%&&WWWWWWWW#########################MM#########MW#M8W&BM#aWoodOLUJC0qha
+8#&&M&*#8%&&&&&W&&WM###*****##*####*#########MW#########MWMM&M&BM#okOUznjt////tt
+8M&&M&#M&%&&&&&&&&W###****************#M#**#*M&M#########M&MWW&BWWohdwOJJQZqhaoo
+8M8&W&#M8%8&&&&&&&&WWMMM##ao**o*******#M#*####&WM########MWWMM&B%WM#*kk*&8888888
+%M88&8#M8%88888&&&&&&&&&WWCO*ooooo****#M#**###&&M#########M&WM&B888&#W&8B8&&&&&&
+8W%8&8MM8%8888888&&&&&&&WWu(nJOqba*oo*#M######W&W##########W&W&BM&B8&8%%&&&&&&&&
+%&%8&8MM8%8888888&&&&&&WWW|!!>-}|c*MMMWWMMWWW&&&&WWMMMM#####&&W%WWBB%%BW&&&&&&&&
+B&%8&8WW%B8888888&&&&&&WWM]!!!!!~hWWWW&&&&&&&&&&&&&&&&&WWWWWW&&8MWBBBB%W&&&&&&&&
+B8%88%W&%B%888888&&&&&&WWQ<><~~<YWWWW&&&&&&&&&&8&M0uunj(}_LM8W&BMWBBBB%W&&&&&&&&
+B8%88%&&%B%88888888&&&&WW[;;;::;mWWW&&&&&&88888&&&&dt+i!!<+u&M&BM&BBBBBM&&&88888
+B8%88%&&BB%%%%888888&&&&W>;;:::;q&&&&&&88888888888&&k->>>I;;}a&B#&BBBBBW&&&&8888
+B8%88B88%%%%%%88888&&&&&Wi;;;::la&&&&&8888888888888&&Y;;;;;;;+a%#&BBBB%M&&&&8888
+B8%%8B88%888888&&&&&WWWMM-;;;:;|MMWWWW&&&&&&&&&&&&WWWMYl;;;;;;-W#W%BBB%M&&&&8888
+B%B%8B&&&&&&&&&&&&WMMMMMM|;;;;!bMMMMMWWW&&&&&&&&&WWWMMMq];;;;;;/MW%%BB%M&&&&8888
+%%%%BB8888888888&&WWWWWWWz;;;;jMWWWWWW&&&&&&&&&&&&&WWWWMMUI;;;;;Z8%BBB%M&&&&&888
